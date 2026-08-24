@@ -42,6 +42,16 @@
 
 ![token](screenshots/clone.png)
 
+5. Каталог devops-netology:
+
+![token](screenshots/cd.png)
+
+6. Первоначальная настройка Git:
+
+![token](screenshots/global.png)
+
+
+
 
 
 
