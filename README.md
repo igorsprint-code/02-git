@@ -32,7 +32,13 @@
 
 2. Создан публичный репозиторий:
 
-![account](screenshots/repo.png)
+![repo](screenshots/repo.png)
+
+3. Создан токен:
+
+![token](screenshots/token.png)
+
+
 
 
 
