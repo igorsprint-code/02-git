@@ -26,6 +26,10 @@
 
 ### Решение
 
+1. Аккаунт создан:
+
+![account](screenshots/acc.png)
+
 
 
 
