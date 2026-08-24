@@ -38,6 +38,12 @@
 
 ![token](screenshots/token.png)
 
+4. Репозиторй склонирован:
+
+![token](screenshots/clone.png)
+
+
+
 
 
 
