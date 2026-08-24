@@ -40,15 +40,41 @@
 
 4. Репозиторй склонирован:
 
-![token](screenshots/clone.png)
+![clone](screenshots/clone.png)
 
 5. Каталог devops-netology:
 
-![token](screenshots/cd.png)
+![cd](screenshots/cd.png)
 
 6. Первоначальная настройка Git:
 
-![token](screenshots/global.png)
+![global](screenshots/global.png)
+
+7. Результат выполнения команды git status:
+
+![status](screenshots/status.png)
+
+8-9. Файл README.md отредактирован, вывод команды git status:  
+
+![mod](screenshots/mod.png)
+
+10. Вывод команд git diff и git diff --staged:
+
+![diff](screenshots/diff.png)
+
+11-12. README.md переведен в состояние staged, вывод команд git diff и git diff --staged:
+
+
+![diff2](screenshots/diff2.png)
+
+13-14. Сделан коммит, результат вывода комманд git status, git diff и git diff --staged:
+
+![commit](screenshots/commit.png)
+
+
+
+
+
 
 
 
