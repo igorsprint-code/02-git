@@ -30,6 +30,12 @@
 
 ![account](screenshots/acc.png)
 
+2. Создан публичный репозиторий:
+
+![account](screenshots/repo.png)
+
+
+
 
 
 
